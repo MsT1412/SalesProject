@@ -1,5 +1,7 @@
 # Retail Sales Analytics & Business Intelligence Pipeline
-
+## Project Type
+End-to-End Data Analytics | Exploratory Data Analysis (EDA)
+________________________________________________________________________________________
 ## Project Overview
 This project presents an end-to-end data analytics pipeline built using a retail sales dataset. It demonstrates the full workflow from raw data ingestion and SQL-based data cleaning to exploratory data analysis and executive-level visualisations in Python.
 
